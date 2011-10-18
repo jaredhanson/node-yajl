@@ -29,7 +29,7 @@
 
 #include <v8.h>
 #include <node.h>
-#include <node/node_events.h>
+#include <node_events.h>
 #include <yajl/yajl_parse.h>
 
 #include "handle.h"

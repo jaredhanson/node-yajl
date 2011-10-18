@@ -16,7 +16,7 @@
 
 #include <v8.h>
 #include <node.h>
-#include <node/node_object_wrap.h>
+#include <node_object_wrap.h>
 #include <yajl/yajl_tree.h>
 
 #include "tree.h"
